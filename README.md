@@ -1,3 +1,4 @@
+![logo](https://github.com/hardyash/hardyash/blob/main/Screenshot%202023-07-28%20105033.png)
 <h1 align="center">Hi 👋, I'm Hardik Laddha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
